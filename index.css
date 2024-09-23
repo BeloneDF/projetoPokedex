@@ -35,7 +35,7 @@ body {
     border: 1px solid #5e5e5e;
 }
 
-.pokemonsCard {
+.pokemonCard {
     width: 30%;
     height: 100px;
     display: flex;
